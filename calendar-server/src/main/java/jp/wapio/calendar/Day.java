@@ -1,7 +1,6 @@
 package jp.wapio.calendar;
 
 import jp.wapio.calendar.holiday.Holiday;
-import jp.wapio.calendar.weather.Weather;
 import lombok.*;
 
 import java.io.Serializable;
